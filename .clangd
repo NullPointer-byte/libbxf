@@ -1,0 +1,21 @@
+CompileFlags:
+  Add:
+    - -Wall
+    - -Wextra
+    - -Wpedantic
+    - -Wconversion
+    - -Wsign-conversion
+
+  CompilationDatabase: build
+
+Index:
+  Background: Build
+
+Diagnostics:
+  UnusedIncludes: Strict
+
+Hover:
+  ShowAKA: true
+
+Completion:
+  AllScopes: true
