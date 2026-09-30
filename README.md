@@ -339,3 +339,10 @@ Until version `1.0.0`, breaking changes may occur.
 ## License
 
 License information will be added before the first public release.
+
+---
+
+## Documentation
+
+- [API Documentation](docs/API.md)
+- [Binary Format Specification](docs/FORMAT.md)
